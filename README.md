@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pranav%20Chopade&fontSize=55&fontColor=00C4FF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20Firmware%20Developer%20%7C%20Hardware%20Tinkerer&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0F1E,50:0F2A3D,100:0A0F1E&height=260&section=header&text=PRANAV%20CHOPADE&fontSize=48&fontColor=00C4FF&fontAlign=50&fontAlignY=34&animation=fadeIn&desc=EMBEDDED%20SYSTEMS%20ENGINEER%20%C2%B7%20FIRMWARE%20DEVELOPER%20%C2%B7%20HARDWARE%20TINKERER&descAlign=50&descAlignY=52&descSize=15&fontColor=00C4FF" width="100%"/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Embedded%20C-0A0F1E?style=flat-square&labelColor=0A0F1E&color=00C4FF"/>
+  <img src="https://img.shields.io/badge/-ARM7%20(LPC2148)-0A0F1E?style=flat-square&labelColor=0A0F1E&color=00C4FF"/>
+  <img src="https://img.shields.io/badge/-Embedded%20Linux-0A0F1E?style=flat-square&labelColor=0A0F1E&color=00C4FF"/>
+  <img src="https://img.shields.io/badge/-Hardware%20Interfacing-0A0F1E?style=flat-square&labelColor=0A0F1E&color=00C4FF"/>
+</p>
 
 ```text
 $ whoami
