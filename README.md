@@ -25,6 +25,7 @@
 
 <img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
+```yaml
 name: Pranav Chopade
 role: Embedded Systems Engineer
 focus:
