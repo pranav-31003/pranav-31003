@@ -1,129 +1,93 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0A0F1E,50:0F2A3D,100:0A0F1E&height=260&section=header&text=PRANAV%20CHOPADE&fontSize=48&fontColor=00C4FF&fontAlign=50&fontAlignY=34&animation=fadeIn&desc=EMBEDDED%20SYSTEMS%20ENGINEER%20%C2%B7%20FIRMWARE%20DEVELOPER%20%C2%B7%20HARDWARE%20TINKERER&descAlign=50&descAlignY=52&descSize=15&fontColor=00C4FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0F1E,100:132A3A&height=150&text=PRANAV%20CHOPADE&fontSize=38&fontColor=FFFFFF&fontAlign=50&fontAlignY=38&desc=Embedded%20Systems%20Engineer&descAlign=50&descAlignY=62&descSize=17&descColor=8FC7DE" width="100%"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Embedded%20C-0A0F1E?style=flat-square&labelColor=0A0F1E&color=00C4FF"/>
-  <img src="https://img.shields.io/badge/-ARM7%20(LPC2148)-0A0F1E?style=flat-square&labelColor=0A0F1E&color=00C4FF"/>
-  <img src="https://img.shields.io/badge/-Embedded%20Linux-0A0F1E?style=flat-square&labelColor=0A0F1E&color=00C4FF"/>
-  <img src="https://img.shields.io/badge/-Hardware%20Interfacing-0A0F1E?style=flat-square&labelColor=0A0F1E&color=00C4FF"/>
+<p>
+  <img src="https://img.shields.io/badge/Embedded%20C-0A0F1E?style=flat-square&color=1F6FEB"/>
+  <img src="https://img.shields.io/badge/ARM7%20(LPC2148)-0A0F1E?style=flat-square&color=1F6FEB"/>
+  <img src="https://img.shields.io/badge/Embedded%20Linux-0A0F1E?style=flat-square&color=1F6FEB"/>
+  <img src="https://img.shields.io/badge/Hardware%20Interfacing-0A0F1E?style=flat-square&color=1F6FEB"/>
 </p>
 
-```text
-$ whoami
-Pranav Chopade — Embedded Systems Engineer
-
-$ cat skills.txt
-Embedded C | ARM7 (LPC2148) | Embedded Linux | Hardware Interfacing
-
-$ ./run --status
-[ OK ] Compiling firmware...
-[ OK ] Flashing LPC2148...
-[ OK ] Ready to build something awesome 🚀
-```
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+booting+embedded_systems_engineer.exe...;%3E+loading+modules%3A+Embedded_C%2C+ARM7%2C+Linux;%3E+status%3A+READY_TO_DEPLOY" />
-
-<br/>
-
-<a href="https://www.linkedin.com/in/pranav-chopade/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:pranav31003@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/pranav-31003" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<img src="https://komarev.com/ghpvc/?username=pranav-31003&label=Profile%20Views&color=00C4FF&style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/pranav-chopade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:pranav31003@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/pranav-31003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
 
 <br/>
 
-## 🚀 About Me
+## Profile
 
-<img align="right" alt="Coding" width="340" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+Embedded Systems Engineer with hands-on experience in firmware development, ARM7 (LPC2148) programming, and hardware interfacing. Comfortable working across the stack — from bare-metal drivers and peripheral programming to PCB design and Linux-based systems. Currently building depth in Embedded Linux, device drivers, RTOS, and networking.
 
-```yaml
-name: Pranav Chopade
-role: Embedded Systems Engineer
-focus:
-  - Firmware Development (Embedded C)
-  - ARM7 (LPC2148) Programming
-  - Hardware Interfacing & Sensor Integration
-currently_learning:
-  - Embedded Linux
-  - Linux Device Drivers
-  - RTOS
-  - Networking (TCP/IP, UDP)
-interests:
-  - PCB Design
-  - Embedded Debugging
-  - Electronics
-fun_fact: "I enjoy debugging hardware as much as writing firmware."
-contact: pranav31003@gmail.com
-```
+| | |
+|---|---|
+| **Focus areas** | Firmware Development · ARM7 (LPC2148) · Hardware Interfacing |
+| **Currently learning** | Embedded Linux · Linux Device Drivers · RTOS · Networking |
+| **Also interested in** | PCB Design · Embedded Debugging · Electronics |
+| **Contact** | pranav31003@gmail.com |
 
-<br clear="right"/>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <br/>
-<img src="https://img.shields.io/badge/Keil_µVision-394049?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Proteus-1C79B3?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Flash_Magic-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/EasyEDA-1765F2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white"/>
-</p>
 
----
+## Technical Skills
 
-## ⚙️ Core Expertise
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square"/>
+
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Keil_µVision-394049?style=flat-square"/>
+<img src="https://img.shields.io/badge/Proteus-1C79B3?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flash_Magic-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/EasyEDA-1765F2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+
+**Hardware Platforms**
+<br/>
+<img src="https://img.shields.io/badge/NXP%20LPC2148-ARM7TDMI--S-8A2BE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white"/>
+<img src="https://img.shields.io/badge/AVR-1F6FEB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+
+<br/>
+
+## Core Expertise
 
 <table>
 <tr>
 <td valign="top" width="50%">
 
-### 👨‍💻 Firmware Development
-- Bare-Metal Programming
-- Driver Development
-- GPIO Programming
-- Interrupt Handling
-- Timer Programming
+**Firmware Development**
+- Bare-metal programming
+- Driver development
+- GPIO, interrupt & timer programming
 - ADC · PWM · DAC
-- Watchdog Timer
-- Memory-Mapped I/O
+- Watchdog timer
+- Memory-mapped I/O
 
 </td>
 <td valign="top" width="50%">
 
-### 🖥️ Microcontrollers & Platforms
+**Microcontrollers & Architectures**
 - NXP LPC2148 (ARM7TDMI-S)
-- ARM7 Architecture
-- ARM Cortex-M Fundamentals
-- ESP32
-- AVR Microcontrollers
-- Raspberry Pi
+- ARM7 architecture
+- ARM Cortex-M fundamentals
+- ESP32 · AVR · Raspberry Pi
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 📡 Communication Protocols
+**Communication Protocols**
 - UART
 - I²C
 - SPI
@@ -133,110 +97,94 @@ contact: pranav31003@gmail.com
 </td>
 <td valign="top" width="50%">
 
-### 🐧 Embedded Linux
-- Linux Shell Scripting
-- GPIO Programming
-- File Handling & System Programming
-- Makefiles & Build Tools
+**Embedded Linux**
+- Shell scripting
+- GPIO programming
+- File handling & system programming
+- Makefiles & build tools
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="50%">
 
-### 📐 PCB Design
-- EasyEDA
-- Schematic Design & PCB Layout
-- Gerber File Generation
-- Bill of Materials (BOM)
-- 3D PCB Visualization
+**PCB Design**
+- EasyEDA — schematic design & layout
+- Gerber file generation
+- Bill of materials (BOM)
+- 3D PCB visualization
 
 </td>
 <td valign="top" width="50%">
 
-### 🔌 Hardware Interfacing
-16×2 LCD · Matrix Keypad · 7-Segment Display · LEDs · Push Buttons · Relay · Buzzer · DC/Stepper/Servo Motor · RFID · Bluetooth (HC-05/06) · IR/LDR/Temp/Gas/Flame/Water-Level Sensors
+**Hardware Interfacing**
+LCD (16×2) · Matrix keypad · 7-segment display · Relay · Buzzer · DC / stepper / servo motor · RFID · Bluetooth (HC-05/06) · IR / LDR / temperature / gas / flame / water-level sensors
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## 📂 Featured Projects
+## Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### 🔐 Bluetooth-Based Secure Locker
+**Bluetooth-Based Secure Locker**
+<br/>
 Password-protected locker system with LCD + keypad interface and EEPROM-based credential storage.
-
+<br/><br/>
 `ARM7 LPC2148` `Embedded C` `UART` `EEPROM`
 
 </td>
 <td width="33%" valign="top">
 
-### 🌦️ EnviroTime
+**EnviroTime**
+<br/>
 Digital clock with real-time temperature monitoring, RTC, and LCD display output.
-
+<br/><br/>
 `RTC` `Temperature Sensor` `LCD` `Embedded C`
 
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ LPC2148 Peripheral Drivers
+**LPC2148 Peripheral Drivers**
+<br/>
 A library of from-scratch peripheral drivers for the LPC2148, built for reuse across projects.
-
-`GPIO` `UART` `SPI` `I²C` `ADC` `PWM` `Timers` `Interrupts`
+<br/><br/>
+`GPIO` `UART` `SPI` `I²C` `ADC` `PWM` `Timers`
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-<sub>📌 More projects on <a href="https://github.com/pranav-31003?tab=repositories">GitHub</a></sub>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranav-31003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-31003&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-31003&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranav-31003&theme=tokyo-night&hide_border=true" width="95%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranav-31003&theme=tokyonight&no-frame=true&margin-w=8&row=1"/>
-</p>
-
----
-
-<div align="center">
-
-## 💡 Quote
-
-> **"First, solve the problem. Then, write the code."**
+<p align="center"><sub>More projects on <a href="https://github.com/pranav-31003?tab=repositories">GitHub</a></sub></p>
 
 <br/>
 
-### 📫 Let's Connect
+## GitHub Overview
 
-<a href="https://www.linkedin.com/in/pranav-chopade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:pranav31003@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/pranav-31003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<p align="center">
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=pranav-31003&show_icons=true&theme=default&hide_border=true&title_color=1F6FEB&icon_color=1F6FEB&text_color=333333"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-31003&layout=compact&theme=default&hide_border=true&title_color=1F6FEB&text_color=333333"/>
+</p>
 
-**⭐ If you like my work, don't forget to star my repositories!**
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pranav-31003&theme=default&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB"/>
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" width="100%"/>
+<br/>
+
+<div align="center">
+
+<sub>Profile views: <img src="https://komarev.com/ghpvc/?username=pranav-31003&label=&style=flat-square&color=1F6FEB"/></sub>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/pranav-chopade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:pranav31003@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/pranav-31003" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 </div>
