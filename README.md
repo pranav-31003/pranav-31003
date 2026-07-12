@@ -2,7 +2,20 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Pranav%20Chopade&fontSize=55&fontColor=00C4FF&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20Engineer%20%7C%20Firmware%20Developer%20%7C%20Hardware%20Tinkerer&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=750&lines=Embedded+Systems+Engineer;Embedded+C+%7C+ARM7+(LPC2148)+Developer;Embedded+Linux+Learner;Firmware+%26+Driver+Developer;Hardware+Interfacing+Enthusiast;Always+Learning+New+Technologies" />
+```text
+$ whoami
+Pranav Chopade — Embedded Systems Engineer
+
+$ cat skills.txt
+Embedded C | ARM7 (LPC2148) | Embedded Linux | Hardware Interfacing
+
+$ ./run --status
+[ OK ] Compiling firmware...
+[ OK ] Flashing LPC2148...
+[ OK ] Ready to build something awesome 🚀
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&color=00C4FF&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=100&lines=%3E+booting+embedded_systems_engineer.exe...;%3E+loading+modules%3A+Embedded_C%2C+ARM7%2C+Linux;%3E+status%3A+READY_TO_DEPLOY" />
 
 <br/>
 
